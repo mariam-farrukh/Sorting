@@ -195,4 +195,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Pipfile lock
+Pipfile.lock
+
+# Ignore the vscode folder
+.vscode
+
 # End of https://www.gitignore.io/api/windows,macos,linux,python
